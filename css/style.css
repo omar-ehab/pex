@@ -192,7 +192,7 @@ header{
     color: #3a4d60;
     padding-left: 70px;
 }
-@media (min-width:786px){
+@media (max-width:768px){
    .par{paddimg-left: 15px}
 }
 .par h2{
