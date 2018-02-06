@@ -193,7 +193,7 @@ header{
     padding-left: 70px;
 }
 @media (max-width:768px){
-   .par{paddimg-left: 15px}
+   .par{padding-left: 15px}
 }
 .par h2{
     text-transform: uppercase;
